@@ -1,0 +1,54 @@
+ @charset "UTF-8";
+html {
+  background-color: #111;
+}
+
+.title {
+  color: #999;
+}
+
+div {
+  margin: auto;
+  text-align: center;
+  font-family: 微軟正黑體;
+  font-size: 20pt;
+  width: 70%;
+  border-radius: 10pt;
+  padding: 10pt;
+  font-style: bold;
+}
+
+#state {
+  padding: 30pt;
+  background-color: #f25252;
+}
+
+.next {
+  padding: 140pt;
+  background-color: #f2c12e;
+}
+
+#location {
+  color: #fff;
+  font-size: 120px;
+}
+#nextlocation {
+  color: #fff;
+  font-size: 120px;
+}
+#nextstate {
+  color: #fff;
+  font-size: 120px;
+}
+#countdown {
+  color: #fff;
+  font-size: 140px;
+}
+
+#list {
+  color: #f29d35;
+}
+
+#root{
+  color: #222222;
+} 
